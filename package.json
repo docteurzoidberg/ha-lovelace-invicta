@@ -10,9 +10,9 @@
     "lovelace",
     "custom-cards"
   ],
-  "module": "boilerplate-card.js",
-  "repository": "git@github.com:custom_cards/boilerplate-card.git",
-  "author": "Ian Richardson <iantrich@gmail.com>",
+  "module": "invicta-fontica-card.js",
+  "repository": "git@github.com:docteurzoidberg/ha-lovelace-invicta-fontica-card.git",
+  "author": "DrZoid <drzoid@tppt.eu>",
   "license": "MIT",
   "dependencies": {
     "@lit-labs/scoped-registry-mixin": "^1.0.0",
